@@ -7,7 +7,7 @@ Python
    - define the solution as function to upload github
 2. Seperate testcases into Inputs.txt and Outputs.txt
    - Add "Compare" plugin to compared thr Outputs and results
-   - 
+
 Ruby
 1. Use notepad++ as IDE to run Ruby
    - Create .bat file for executing ruby file
