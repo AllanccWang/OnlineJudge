@@ -1,0 +1,11 @@
+Case 1: maximum height = 80
+Case 2: maximum height = 96
+Case 3: maximum height = 198
+Case 4: maximum height = 217
+Case 5: maximum height = 410
+Case 6: maximum height = 391
+Case 7: maximum height = 332
+Case 8: maximum height = 456
+Case 9: maximum height = 631
+Case 10: maximum height = 1039
+Case 11: maximum height = 985
