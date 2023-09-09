@@ -1,0 +1,1 @@
+If i < j, then i’th student is senior to the j’th student.
