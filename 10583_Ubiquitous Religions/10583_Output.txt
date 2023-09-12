@@ -1,0 +1,16 @@
+Case 1: 1
+Case 2: 7
+Case 3: 8
+Case 4: 1
+Case 5: 10
+Case 6: 45
+Case 7: 995
+Case 8: 49995
+Case 9: 49991
+Case 10: 3
+Case 11: 1
+Case 12: 49990
+Case 13: 165
+Case 14: 175
+Case 15: 166
+Case 16: 919
