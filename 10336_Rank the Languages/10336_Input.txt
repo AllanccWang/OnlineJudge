@@ -1,0 +1,150 @@
+15
+4 8
+ttuuttdd
+ttuuttdd
+uuttuudd
+uuttuudd
+9 9
+bbbbbbbbb
+aaaaaaaab
+bbbbbbbab
+baaaaacab
+bacccccab
+bacbbbcab
+bacccccab
+baaaaaaab
+bbbbbbbbb
+2 2
+tt
+tt
+2 2
+tt
+ta
+3 6
+ttuutt
+ttuutt
+uuttuu
+10 9
+bbbbbbbbb
+aaaaaaaab
+aaaaaaaab
+bbbbbbbab
+baaaaacab
+bacccccab
+bacbbbcab
+bacccccab
+baaaaaaab
+bbbbbbbbb
+15 9
+bbbbbbbbb
+aaaaaaaab
+aadaaadab
+aaaaaaaab
+aaaaadaab
+bbbbdbbab
+adaaaaaab
+aaaadaaab
+baaaaacab
+bacccccab
+bacbbbcab
+bacccccab
+baadaaaab
+bbbbbbbbb
+baaaaaaab
+15 15
+fkjskkkkkjadfhk
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+jadfhksjdhsdfwu
+eufdpsdfipasdks
+sjdsdddddddfias
+dfipsifdpsdfipa
+sdfopspodfposdf
+sipdofiposadfjk
+aaaaaaaaaaaaaaa
+aaaaashdaaaaaal
+asfdjshdfkaaaal
+sdfjskfdsjfhsdh
+20 15
+fkjskkkkkjadfhk
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+jadfhksjdhsdfwu
+eufdpsdfipasdks
+sjdsdddddddfias
+dfipsifdpsdfipa
+sdfopspodfposdf
+sipdofiposadfjk
+aaaaaaaaaaaaaaa
+aaaaashdaaaaaal
+aaaaashdaaaaaal
+asfdjshdfkaaaal
+sdfjskfdsjfhsdh
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+sjdhsdfkjsdfhks
+20 30
+fkjskkkkkjadfhksjdhsdfkjsdfhks
+sjdhsdfkjsdfhkssjdhsdfkjsdfhks
+sjdhsdfkjsdfhksjadfhksjdhsdfwu
+eufdpsdfipasdkssjdsdddddddfias
+dfipsifdpsdfipasdfopspodfposdf
+sipdofiposadfjkaaaaaaaaaaaaaaa
+aaaaashdaaaaaalaaaaashdaaaaaal
+asfdjshdfkaaaalsdfjskfdsjfhsdh
+sjdhsdfkjsdfhkssjdhsdfkjsdfhks
+sjdhsdfkjsdfhkssjdhsdfkjsdfhks
+fkjskkkkkjadfhksjdhsdfkjsdfhks
+sjdhsdfkjsdfhkssjdhsdfkjsdfhks
+sjdhsdfkjsdfhksjadfhksjdhsdfwu
+eufdpsdfipasdkssjdsdddddddfias
+dfipsifdpsdfipasdfopspodfposdf
+sipdofiposadfjkaaaaaaaaaaaaaaa
+aaaaashdaaaaaalaaaaashdaaaaaal
+asfdjshdfkaaaalsdfjskfdsjfhsdh
+sjdhsdfkjsdfhkssjdhsdfkjsdfhks
+sjdhsdfkjsdfhkssjdhsdfkjsdfhks
+6 6
+fkhiuw
+erhahs
+djfshd
+fhskdd
+fwueur
+adfhks
+8 8
+jdhsdfwu
+eurjsdfh
+ksadhfks
+jdhflafp
+sdfiasdf
+ipsifdps
+dfipasof
+iposadff
+10 9
+opspodhks
+adhfksjdh
+flafpsdfi
+asdfipsif
+dpsdfipas
+dfopspodf
+posdfsipd
+adfhksjdh
+sdfsipdof
+iposadfjk
+5 4
+asfd
+jshd
+fkjh
+kals
+dfjs
+5 6
+kfdsjf
+hsdhfk
+hiuwer
+hahsdj
+fshdfh
