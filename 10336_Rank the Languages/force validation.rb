@@ -3,7 +3,7 @@ n=fin.readline.to_i
 n.times{|cases|
 	m,n=fin.readline.split.map &:to_i
 	vis=[[false]*n]*m
-  '''
+  	'''
 	This actually creates a single array with "n" number of [false], 
 	but it creates another array which just holds "m" references to that array. 
 	The code above only creates two arrays
