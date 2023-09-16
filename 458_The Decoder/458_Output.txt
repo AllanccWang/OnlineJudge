@@ -1,0 +1,20 @@
+*CDC is the trademark of the Control Data Corporation.
+*IBM is a trademark of the International Business Machine Corporation.
+*DEC is the trademark of the Digital Equipment Corporation.
+How can I participate?
+How is technologY changing things?
+Write a complete program that will correctlY decode a set of characters into a valid message.
+The UN also reports more negative attitudes towards women in societies with lower literacY levels.
+Doctors saY that friends are verY important for both our phYsical and mental health at all stages in life.
+Global coronavirus infections top 30 million
+What risks do people face when theY are in countries at war?
+Within that statistic, there is some good news and some bad news.
+People who can read and write have an enormous advantage over those who can't when it comes to studYing and training.
+It maY seem as if the problems of the world are impossible to fix, but there are a few things that You can do to help in some waY.
+Your program should accept all sets of characters that use the same encoding scheme and should print the actual message of each set of characters.
+Due to war and a shortage of food, it is said that up to 75 per cent of the population (that's about 22 million people) are in need of humanitarian aid and protection.
+The UN's World Humanitarian DAY puts the focus on these important questions.
+Friends are there to help us at difficult times and to celebrate the good times.
+As a first step, inform Yourself about the major humanitarian problems that the world is facing at the moment.
+Or if You would prefer to help in a more practical waY, trY following the advice from previous campaigns for World Humanitarian DaY: do something good, somewhere, for someone else.
+With a quick online search, You will probablY also find online petitions asking global leaders to increase their help for civilians in conflict Zones and for the refugees that come from these situations.
